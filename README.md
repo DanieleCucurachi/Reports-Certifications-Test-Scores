@@ -1,2 +1,2 @@
 # Research-Internships
-Research Internships report collection
+Research Internships reports collection
