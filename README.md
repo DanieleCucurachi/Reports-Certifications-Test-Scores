@@ -1,2 +1,2 @@
 # Reports, Certifications & Test Scores
-Research Internships reports collection
+A collection of internships reports, certifications and test scores.
